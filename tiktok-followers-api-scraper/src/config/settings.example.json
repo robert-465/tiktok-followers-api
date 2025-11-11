@@ -1,0 +1,5 @@
+{
+    "api_url": "https://api.tiktok.com/",
+    "max_followers": 1000,
+    "trial_limit": 10
+}
